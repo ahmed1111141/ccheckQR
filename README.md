@@ -35,12 +35,7 @@ To run the application, ensure you have the following installed:
 5. Use the "Save" button to save the QR code as a PNG file.
 6. Click "Clear" to reset the input and preview.
 
-## Screenshots
-### Main Interface
-![Main Interface](screenshot-main.png)
 
-### Generated QR Code Example
-![QR Code Example](screenshot-qr.png)
 
 ## File Structure
 ```
